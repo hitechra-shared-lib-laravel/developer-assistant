@@ -1,6 +1,6 @@
 <?php
 
-namespace HitechraSharedLibLaravel\DeveloperAssistant\Commands\Development\Printer;
+namespace HitechraSharedLibLaravel\DeveloperAssistant\Console\Commands\Development\Printer;
 
 use Nette\PhpGenerator\Printer;
 

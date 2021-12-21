@@ -1,6 +1,6 @@
 <?php
 
-namespace HitechraSharedLibLaravel\DeveloperAssistant\Commands\Development;
+namespace HitechraSharedLibLaravel\DeveloperAssistant\Console\Commands\Development;
 
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\Artisan;

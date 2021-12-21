@@ -1,8 +1,8 @@
 <?php
 
-namespace HitechraSharedLibLaravel\DeveloperAssistant\Commands\Development;
+namespace HitechraSharedLibLaravel\DeveloperAssistant\Console\Commands\Development;
 
-use HitechraSharedLibLaravel\DeveloperAssistant\Commands\Development\Printer\DefaultPrinter;
+use HitechraSharedLibLaravel\DeveloperAssistant\Console\Commands\Development\Printer\DefaultPrinter;
 use Illuminate\Console\Command;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Str;
