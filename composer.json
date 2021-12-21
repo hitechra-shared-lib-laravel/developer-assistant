@@ -18,5 +18,12 @@
         "laravel/framework": "^8.0",
         "nette/php-generator": "^3.6",
         "nikic/php-parser": "^4.13"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "HitechraSharedLibLaravel\\DeveloperAssistant\\ServiceProvider"
+            ]
+        }
     }
 }
