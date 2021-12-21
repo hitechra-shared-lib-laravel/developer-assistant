@@ -1,0 +1,22 @@
+{
+    "name": "hitechra-shared-lib-laravel/developer-assistant",
+    "description": "Developer Assistant",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HitechraSharedLibLaravel\\DeveloperAssistant\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Adeardo Dora Harnanda",
+            "email": "adetxt151@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^8.0",
+        "nette/php-generator": "^3.6",
+        "nikic/php-parser": "^4.13"
+    }
+}
