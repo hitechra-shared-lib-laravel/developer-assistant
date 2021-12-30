@@ -13,7 +13,7 @@ class BulkMakeModelCommand extends Command
 	 *
 	 * @var string
 	 */
-	protected $signature = 'hitechra:make-model-bulk
+	protected $signature = 'dev:make-model-bulk
         {--force : Create the class even if the model already exists}
         {--m|migration : Create a new migration file for the model} {names*}';
 

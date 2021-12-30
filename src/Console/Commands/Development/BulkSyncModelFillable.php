@@ -17,7 +17,7 @@ class BulkSyncModelFillable extends Command
      *
      * @var string
      */
-    protected $signature = 'hitechra:sync-model-fillable {names?*}';
+    protected $signature = 'dev:sync-model-fillable {names?*}';
 
     /**
      * The console command description.

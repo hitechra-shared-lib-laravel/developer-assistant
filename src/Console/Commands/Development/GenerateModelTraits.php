@@ -16,7 +16,7 @@ class GenerateModelTraits extends Command
      *
      * @var string
      */
-    protected $signature = 'hitechra:generate-model-traits {names?*}';
+    protected $signature = 'dev:generate-model-traits {names?*}';
 
     /**
      * The console command description.
